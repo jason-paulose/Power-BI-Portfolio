@@ -6,5 +6,5 @@ Project 1: Great Lakes Ice Coverage
 
 Power BI Concepts Used
 - Data Cleaning: Unpivot columns, rename columns
-- Data Analysis: Calculated columns using CALCULATE, FILTER, AND EARLIER
+- Data Analysis: Calculated columns using CALCULATE, FILTER, and EARLIER
 - Visualization: Conditional formatting based on rules for average ice coverage
