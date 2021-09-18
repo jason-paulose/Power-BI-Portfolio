@@ -2,4 +2,4 @@
 
 Project 1: Great Lakes Ice Coverage
 
-![alt text](https://github.com/[jason-paulose]/[Power-BI-Portfolio]/blob/[branch]/Great Lakes Ice Coverage - Power BI Desktop.png?raw=true)
+![](https://github.com/jason-paulose/Power-BI-Portfolio/blob/main/Great%20Lakes%20Ice%20Coverage%20-%20Power%20BI%20Desktop.png)
