@@ -1,2 +1,3 @@
 # Power-BI-Portfolio
-project
+
+Project 1: Great Lakes Ice Coverage
