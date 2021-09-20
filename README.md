@@ -20,7 +20,7 @@ Project 2: NCAA Financials
 Power BI Concepts Used
 - Data Cleaning: Change data types, promote top row to column header
 - Data Analysis: Entered data into a new table and created measures using CALCULATE, FILTER, PREVIOUSYEAR, and aggregate functions
-- Visualization: Conditional formatting based on financial category
+- Visualization: Mobile view; Conditional formatting based on financial category
 
 --
 
