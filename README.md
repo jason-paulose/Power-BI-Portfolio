@@ -21,6 +21,7 @@ Power BI Concepts Used
 - Data Cleaning: Change data types, promote top row to column header
 - Data Analysis: Entered data into a new table and created measures using CALCULATE, FILTER, PREVIOUSYEAR, and aggregate functions
 - Visualization: Mobile view; Conditional formatting based on financial category
+- Functionality: Toggle between revenues, expenses, and profits to see metrics for the respective category
 
 --
 
