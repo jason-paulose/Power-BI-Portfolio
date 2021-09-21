@@ -23,6 +23,15 @@ Power BI Concepts Used
 - Visualization: Mobile view; Conditional formatting based on financial category
 - Functionality: Toggle between revenues, expenses, and profits to see metrics for the respective category
 
+Credit for dataset and dashboard design goes to Spencer Baucke: http://www.workout-wednesday.com/pbi-2021-w08/
+
 --
 
-Credit for dataset and dashboard design goes to Spencer Baucke: http://www.workout-wednesday.com/pbi-2021-w08/
+Project 3: Denver Average Temperature 2021
+
+![](https://github.com/jason-paulose/images/blob/main/Denver%20Average%20Temperature%202021.png)
+
+Power BI Concepts Used
+- Visualization: Custom Visual - violin plot
+
+Credit for dataset and dashboard design goes to Meagan Longoria: http://www.workout-wednesday.com/pbi-2021-w10/
